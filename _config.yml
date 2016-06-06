@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Marcus Floriano
+email: marcus.floriano@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Com 14 anos de experiência no desenvolvimento de sistemas, atuando na definição e construções de soluções
+  baseadas em Java JEE, PHP, Ruby on Rails e Python. Amplo conhecimento em frameworks como Spring, Struts,
+  Hibernate, Zend, Sinatra, Joomla, Drupal, Symfony, ADODB, DJango. Experiências em implementações e definições
+  de soluções que utilizaram Oracle, SQL Server, Mysql, MongoDB, CouchDB, Jackrabbit.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://marcusfloriano.github.io" # the base hostname & protocol for your site
+twitter_username: marcusvfloriano
+github_username:  marcusfloriano
+
+# Build settings
+markdown: kramdown
